@@ -1,3 +1,6 @@
+
+![DeStore Hero Shot](https://github.com/Doinglifewell/Astar_dApp_Staking/assets/72717548/54d457a7-e20c-4afe-b07d-94cdd4c63937)
+
 # Astar_dApp_Staking
 
 

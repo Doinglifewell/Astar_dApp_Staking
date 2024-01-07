@@ -3,6 +3,10 @@
 
 # DeStore Network - Initial Stake Pool Offering (ISPO)
 
+## What is an Initial Stake Pool Offering (ISPO)?
+An ISPO is a fundraising approach where projects distribute tokens to participants who stake a specific cryptocurrency in a designated pool. Instead of purchasing tokens/equity outright, individuals stake their tokens to support the project. The amount of staked tokens determines the participant’s eligibility for new project tokens/equity. 
+ISPOs often reward participants with project tokens/equity in proportion to the amount they stake and the duration of their stake.
+
 ## About DeStore: 
 
 The DeStore platform aims to facilitate the adoption and management of Hybrid assets, which are physical assets connected to a **Digital Twin**. NFT technology for product based settlement, DeStore enables the creation, 
@@ -28,19 +32,16 @@ different platforms and the transfer of product information at the point of sale
 
 ## Impact:
 
-The DeStore platform and DeAR Wallet combined expect to onboard the next Billion users via existing Web2 eCommerce channels for mor information please read out full proposal: https://forum.astar.network/t/b2e-proposal-destore-network/5724
+The DeStore platform and DeAR Wallet combined expect to onboard the next Billion users via existing Web2 eCommerce channels for mor information please read our [Full Proposal](https://docs.google.com/document/d/1UavFlrSS1zvpIoI0YZ2sbciRgtvB-PCFlolCBpT8rVs/edit?usp=sharing) further infomaion can be found on our Astar [dApp Staking Proposal Discussuion](https://forum.astar.network/t/b2e-proposal-destore-network/5724)
 
-### What is in it for the Stakers? 
+# What is in it for the Stakers? 
 
 DeStore is offering 1% of its ***Equity*** into a pool for stakers who stake more than 25,000 ASTR for at least 5 out of 6 months with a goal of raising 100,000,000 Staked ASTR. Stakers have a 5 - 6-month window from January 1 to June 30, 2024, to stake their ASTR, with a 
 one-month grace period to unstake. If 150,000,000 staked ASTR is reached DeStore will release a further 1% totaling 2% for the first 6 month period  ***Equity*** allocation will be based on the average amount of ASTR staked during the six months. DeStore will also allocate 
 a further 1% for the second half of 2024 with the same rules. All stakers can gain access to DeStore's Discord channel, which will transition into a DeStore OGs Channel on the last day of January 2024.
+
 Simplified Explanation:
 Imagine you have a pie representing the 2% ***Equity***. Each staker gets a slice of the pie based on how much ASTR they staked. The more ASTR you staked, the bigger your slice of the DeStore pie.
-What is in it for the Community? 
-
-Along with the DT airdrops, DeStore will also Airdrop ¥100 worth of $ASTR, converting no coiner into ASTR stakeholders and dramatically expanding the ecosystem. 
-
 
 ### Equity Allocation Reporting
 The round will close on July 30, 2024, and DeStore will provide a report within 30 days with each stakeholder's equity allocation of shares. Stakeholders must provide personal information to claim equity in DeStore's parent company, Metarock Ltd, registered in 
